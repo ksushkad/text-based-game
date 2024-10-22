@@ -1,0 +1,2 @@
+Oh nein, was ist denn hier schiefgelaufen? Der Code steckt voller Bugs! 
+Du brauchst länger zum Benoten und verlierst beim Debuggen viel Zeit - und leider auch 1 EP.
